@@ -10,6 +10,5 @@ I'm a software engineer with a focus on backend development.
 - 🌱 Currently learning Golang
 - 👯 I'm looking to collaborate with backend developers on interesting projects.
 - 💬 Ask me about Java,microservices, Spring Boot, REST APIs, MySQL, and backend development.
-- 📫 Reach me via email: [briankipkoechtowett@gmail.com](mailto:briankipkoechtowett@gmail.com).🌐
-- 🌐  https://briankipkoech.xo.je
+- 📫 Reach me via email: [briankipkoechtowett@gmail.com](mailto:briankipkoechtowett@gmail.com).
 Let's build something amazing together!
